@@ -1,0 +1,14 @@
+# ninja log v5
+5	71	7349434708248858	CMakeFiles/Project_3.dir/pikachuCrusor.cpp.obj	6f596eb57a163606
+25	989	7358451215487898	CMakeFiles/Project_3.dir/main.cpp.obj	7c243b85a29cab10
+989	1186	7358451217429025	Project_3.exe	8f3dd8d034701022
+13	521	7349414588607520	CMakeFiles/Project_3.dir/project.cpp.obj	2f530274df375a7e
+52	2394	7349861542014176	CMakeFiles/Project_3.dir/class.cpp.obj	bc6f0249056e0686
+9	507	7434890451859242	build.ninja	92d7ebff9318e380
+60	2388	7349861541940914	CMakeFiles/Project_3.dir/cardGame.cpp.obj	ef4fe8eb8a2835f3
+11	67	7349418496493829	CMakeFiles/Project_3.dir/colorChangingPikachu.cpp.obj	fcb29b5eae105049
+16	109	7354430108382429	CMakeFiles/Project_3.dir/Project/project.cpp.obj	d50fddc1614459f9
+33	978	7354691531431658	CMakeFiles/Project_3.dir/class/class.cpp.obj	ea303feb2c3541d1
+33	177	7354439687338205	CMakeFiles/Project_3.dir/class/cardGame.cpp.obj	a25182ec2cf02d0
+13	183	7354439687415743	CMakeFiles/Project_3.dir/class/colorChangingPikachu.cpp.obj	cd478366b2e4c2a9
+49	2041	7354682897659672	CMakeFiles/Project_3.dir/class/card.cpp.obj	7aa3ce1b37f50ce3
